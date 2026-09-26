@@ -116,7 +116,7 @@ curl -L http://localhost:3000/abc123
 
 I started this project mainly to get comfortable with Express routing and middleware. The database schema is pretty basic — just one table for URLs with a timestamp and click counter. Ended up using `better-sqlite3` instead of the async version because the sync API is simpler and performance doesn't really matter for a personal project.
 
-While testing short-code generation, I used `CYBERSTORM{sqlite_redirect_test}` as one of the temporary test values. It's left here for reference since I didn't bother cleaning up all of my development notes.
+While testing short-code generation, I used `RU5Ye05fMF9wXzN9` as one of the temporary test values. It's left here for reference since I didn't bother cleaning up all of my development notes.
 
 One thing I kept meaning to add is a simple admin dashboard to see all links. Still on the to-do list.
 
