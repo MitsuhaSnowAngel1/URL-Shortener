@@ -140,6 +140,12 @@ If you clone this and run into any issues with the SQLite native bindings, try r
 - [ ] QR code generation
 - [ ] Proper input validation and error messages
 
+
+
+
+
+checkout my portfolio : https://mitsuhasnowangel1.vercel.app/
+
 ## License
 
 MIT — do whatever you want with it.
